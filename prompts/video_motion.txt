@@ -1,0 +1,62 @@
+Master prompt for a continuous 10-second fashion outfit-transition video. Only the text inside the CUSTOM ACTION
+BOX should be changed.
+Create ONE continuous 10-second fashion outfit-transition video using the 4 provided outfit reference images and the
+provided pose reference image.
+The 4 outfit images represent the SAME female character wearing 4 different outfits. Keep the same character, body
+proportions, face coverage, environment, lighting, framing, and camera perspective throughout the entire video.
+CAMERA
+Use a completely fixed static camera for the entire video.
+No camera movement, no zoom, no pan, no tilt, no rotation, no reframing, and no change of camera angle.
+The character must remain at the same camera distance and in the same composition.
+FACE AND SMARTPHONE
+The smartphone remains directly in front of the face and completely covers the face throughout the entire video.
+The face must never be revealed.
+The hand holding the smartphone remains stable in the selfie position.
+BODY LOCK
+Keep the head, neck, shoulders, chest, torso, waist, and general posture completely stable.
+There must be no unnecessary swaying, twisting, leaning, dancing, or random body movement.
+Only the specific action described in the single CUSTOM ACTION BOX below is allowed to create movement.
+CUSTOM ACTION BOX
+CHANGE ONLY THIS TEXT
+Left foot slightly crosses in front of the right foot.
+END OF CUSTOM ACTION BOX
+Everything else in this prompt remains unchanged.
+The action described above must be performed naturally, smoothly, stylishly, and consistently.
+Use the supplied pose reference image as the visual reference for the standing position and overall pose.
+VIDEO STRUCTURE
+The final video is exactly 10 seconds long.
+0-4 seconds:
+Use Outfit 1.
+The character takes only 1-2 natural fashion-model steps forward. After completing the steps, she settles into the
+supplied pose reference position and performs the custom action.
+4-6 seconds:
+Use Outfit 2.
+The character stays in the same position and performs the same custom action.
+6-8 seconds:
+Use Outfit 3.
+The character stays in the same position and performs the same custom action.8-10 seconds:
+Use Outfit 4.
+The character stays in the same position and performs the same custom action.
+The custom action must remain visually consistent throughout all four outfit sections.
+OUTFIT CHANGES
+Change only the outfit at approximately 4, 6, and 8 seconds.
+Keep the character's position, camera, background, lighting, framing, smartphone position, and overall pose
+consistent.
+The result should look like one viral fashion video where the same model performs the same stylish action while the
+outfit changes three times.
+STRICT RULES
+ONE continuous 10-second video.
+Only 1-2 walking steps during the first 4 seconds.
+No walking during the remaining 6 seconds.
+No extra movements.
+No random gestures.
+No face reveal.
+No camera movement.
+No zoom.
+No background change.
+No character change.
+No different action for different outfits.
+Do not create four separate videos.
+The same custom action must be repeated naturally for all four outfits.
+Left foot slightly crosses in front of the right foot.
+Do not modify any other part of this master prompt.
